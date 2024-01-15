@@ -4,7 +4,7 @@ import AccountBoxRoundedIcon from '@mui/icons-material/AccountBoxRounded';
 
 function SidebarChat() {
     return (
-        <div className='SidebarChat'>
+        <div className='sidebarChat'>
             <AccountBoxRoundedIcon />
             <div className="sidebarChat__info">
                 <h2>Room Name</h2>

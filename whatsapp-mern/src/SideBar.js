@@ -7,7 +7,6 @@ import IconButton from '@mui/material/IconButton';
 import AccountBoxRoundedIcon from '@mui/icons-material/AccountBoxRounded';
 import SearchIcon from '@mui/icons-material/Search';
 import SidebarChat from './SidebarChat';
-
 function SideBar() {
     return (
         <div className='sidebar'>
